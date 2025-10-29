@@ -126,3 +126,30 @@ Use this tweak **only if you understand its impact** or need long-running backgr
 
 ---# Disabled-Phantom-Process-Killer
 How to Disable “Phantom Process Killer”..?? 
+
+
+
+
+
+---
+
+### 🧠 **AH Showev (Prince)**  
+
+### 🌐 **Connect with Me**
+
+| Platform | Link |
+|-----------|------|
+| 🪪 **Facebook** | [AH Showev H](https://www.facebook.com/ahshowevh) |
+| 💻 **GitHub** | [mrdavid404](https://github.com/mrdavid404) |
+| ✈️ **Telegram** | [@mrdavid404_bot](https://t.me/mrdavid404_bot) |
+| 🎟️ **TikTok** | [《★~ 𝗠𝗿｡ 𝗗𝗮𝘃𝗶𝗱 ~★》](https://www.tiktok.com/@mr.david_404?_t=ZS-90xGIQQWsHw&_r=1) |
+| 📺 **YouTube** | [AH SHOWEV](https://youtube.com/@AHShowev) |
+| 🌎 **Website / Blog** | [https://mrdavid404.github.io](https://mrdavid404.github.io) |
+
+---
+
+💬 _If you like my work, don’t forget to star ⭐ the repository and share your feedback!_  
+
+> _"Knowledge shared is power multiplied."_ ⚡  
+
+---
