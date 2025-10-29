@@ -108,7 +108,7 @@ Use this tweak **only if you understand its impact** or need long-running backgr
 ---
 
 ## 🔹 2. Suzuki App (Play Store)
-[![Open in Play Store](https://img.shields.io/badge/🎯_Open_Suzuki_App-Play_Store-green?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.suzuki.app)
+[![Open in Play Store](https://img.shields.io/badge/🎯_Open_Suzuki_App-Play_Store-green?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)
 > 🔸 **Click to open** the official Suzuki app on Google Play Store.
 
 ---
