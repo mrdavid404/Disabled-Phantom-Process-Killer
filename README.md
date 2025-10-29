@@ -99,6 +99,26 @@ Use this tweak **only if you understand its impact** or need long-running backgr
 
 ---
 
+# 📦 Downloads & Resources
+
+## 🔹 1. A-Shell App (APK)
+[![Download aShell](https://img.shields.io/badge/⬇️_Download-A--Shell-blue?style=for-the-badge&logo=android)](https://github.com/mrdavid404/Disabled-Phantom-Process-Killer/raw/main/aShell_v0.8.apk)
+> 🔸 **Click to download** the A-Shell app directly (.apk file).
+
+---
+
+## 🔹 2. Suzuki App (Play Store)
+[![Open in Play Store](https://img.shields.io/badge/🎯_Open_Suzuki_App-Play_Store-green?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.suzuki.app)
+> 🔸 **Click to open** the official Suzuki app on Google Play Store.
+
+---
+
+## 🔹 3. Tutorial Video
+[![Watch Tutorial](https://img.shields.io/badge/▶️_Watch_Tutorial-Video-orange?style=for-the-badge&logo=youtube)](https://github.com/mrdavid404/Disabled-Phantom-Process-Killer/raw/main/tutorial.mp4)
+> 🔸 **Click to watch** the full tutorial video (MP4).
+
+---
+
 ### ✨ Author
 **Script by:** _AH SHOWEV_  
 **Compatible with:** Android 12 / 13  
